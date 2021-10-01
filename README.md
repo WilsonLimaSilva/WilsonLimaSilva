@@ -1,3 +1,9 @@
+ <div align="center">
+  <img style="height: 200px;" src="https://raw.githubusercontent.com/WilsonLimaSilva/WilsonLimaSilva/main/Gif.gif">
+ </div>
+ 
+ ##
+ 
 <div align="center"> 
   <a href="https://github.com/WilsonLimaSilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilsonLimaSilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
